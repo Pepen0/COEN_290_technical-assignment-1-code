@@ -1,2 +1,5 @@
-# COEN_290_technical-assignment-1-code
-The project required us to control an IR and US sensor
+# COEN_290_technical-assignment-1-and-2-code
+
+The project required us to control an IR and US sensor in the first part
+
+The projetct second part required us to control the a swervo motor with an IMU input
