@@ -5,3 +5,5 @@ The project required us to control an IR and US sensor in the first part
 The projetct second part required us to control the a swervo motor with an IMU input
 
 The PDR report is about to get tarted
+
+There's multiple part to it
