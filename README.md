@@ -7,3 +7,5 @@ The projetct second part required us to control the a swervo motor with an IMU i
 The PDR report is about to get tarted
 
 There's multiple part to it
+
+We plitted the task on friday 3 march
