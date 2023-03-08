@@ -11,3 +11,5 @@ There's multiple part to it
 We plitted the task on friday 3 march
 
 the report is advencing and the power point is now our priority
+
+We are getting ready to present , that shit crazy
