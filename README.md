@@ -13,3 +13,5 @@ We plitted the task on friday 3 march
 the report is advencing and the power point is now our priority
 
 We are getting ready to present , that shit crazy
+
+Dimitry was pretty strict on the oral presenters .Man want to see us fail so bad
